@@ -1,0 +1,30 @@
+/* Geral */
+
+p, li{
+    font-size: 14px;
+    color: #444;
+}
+
+/* Barra de navegação */
+
+header, .navbar{
+    background-color: #808080
+}
+
+#navbar-links{
+    margin-right: 100px;
+}
+
+#navbar-links a{
+    color: aliceblue;
+}
+
+#navbar-links a:hover{
+    color: aquamarine;
+}
+
+#logo{
+    width: 100px;
+    margin-left: 25px;
+}
+
